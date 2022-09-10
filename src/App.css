@@ -1,0 +1,29 @@
+body {
+  background-image: url('https://png.pngtree.com/background/20210710/original/pngtree-leisure-time-cinema-movie-poster-picture-image_1013896.jpg');
+  font-family: monospace;
+}
+
+.App {
+  text-align: center;
+  color: black;
+  font-family: monospace;
+  background-color: rgba(53, 48, 48, 0.362);
+ 
+}
+
+.App container{
+  display: flex;
+  justify-content: center;
+ 
+}
+.main{
+  width: 90%;
+  height: 500px;
+  margin: 20px;
+  display: block;
+  justify-content: center;
+}
+
+
+
+
